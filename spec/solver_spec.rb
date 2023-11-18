@@ -1,4 +1,4 @@
-require './solver'
+require './TDD/solver'
 
 describe Solver do
   describe '#factorial' do
